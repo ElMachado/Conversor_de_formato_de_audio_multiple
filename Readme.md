@@ -10,4 +10,4 @@ execute following the past example.
 2. Musica is a folder whit the files which we want convert and second folder is the output , the second folder must alredy exist before to execute the script. 
 
 3. The last parameter is a bitrate of music file.
-~
+
